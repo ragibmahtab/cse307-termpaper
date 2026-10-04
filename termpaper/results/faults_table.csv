@@ -1,0 +1,6 @@
+policy,after,before,overall
+FIFO,6287.6,1863.3,8151.0
+LRU,6285.0,1166.8,7451.8
+Learned-static,6593.0,1114.9,7707.8
+Learned-online,6452.4,1119.0,7571.4
+OPT,4388.6,955.4,5344.0
